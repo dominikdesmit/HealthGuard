@@ -29,6 +29,11 @@ public class GameBean implements Serializable {
     public int getRows() {
         return rows;
     }
+    
+    //Naar developer
+    public int getRows2(){
+        return 2;
+    }
 
     public void setRows(int rows) {
         this.rows = rows;
