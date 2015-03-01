@@ -17,7 +17,7 @@ public class WhenCreatingANewGame {
 
     GameBean bean = null;
     //geweldig
-    java //kapot maken
+    //kapot maken gefixed
 
     @Before
     public void initializeController() {
