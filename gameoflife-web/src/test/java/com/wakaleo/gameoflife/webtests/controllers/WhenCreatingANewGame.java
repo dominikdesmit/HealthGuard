@@ -16,6 +16,7 @@ import org.junit.Test;
 public class WhenCreatingANewGame {
 
     GameBean bean = null;
+    //geweldig
 
     @Before
     public void initializeController() {
