@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 @SessionScoped
 public class GameBean implements Serializable {
 
-    private int rows = 3; //test leuk
+    private int rows = 3; //test leuk //test leuk hahahah
     private int columns = 3;
     private Universe universe;
     private Random randomGenerator = new Random();
