@@ -32,7 +32,7 @@ public class GameBean implements Serializable {
     
     //Naar developer
     public int getRows2(){
-        return 2;
+        return 56;
     }
 
     public void setRows(int rows) {
