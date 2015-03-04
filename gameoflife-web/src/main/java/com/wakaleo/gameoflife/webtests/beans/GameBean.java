@@ -31,7 +31,7 @@ public class GameBean implements Serializable {
     }
     
     //Naar developer
-    ublic int gettRows2(){
+    public int gettRows2(){
         return 56;
     }
 
