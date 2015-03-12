@@ -51,7 +51,7 @@
                         <deployable>
                             <groupId>${project.groupId}</groupId>
                             <artifactId>${project.artifactId}</artifactId>
-                            <type>war</type>
+                            <type>pom</type>
                             <properties>
                                 <context>/myapp</context>
                             </properties>
