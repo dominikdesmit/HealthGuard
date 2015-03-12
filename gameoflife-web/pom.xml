@@ -32,7 +32,7 @@
                 <configuration>
                     <container>
                         <containerId>glassfish4x</containerId>
-                        <type>local</type>
+                        <type>remote</type>
                     </container>
                     <configuration>
                         <type>runtime</type>
